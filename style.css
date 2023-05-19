@@ -1,0 +1,55 @@
+.navbar-brand-image {
+    width:150px !important;
+    height:60px !important;
+}
+
+.nav-item{
+    margin: 5px;
+    color: #206bc4;
+    font-weight: bold;
+    font-size:1em;
+    color: white;
+    border-radius: 5px;
+}
+.active {
+    background-color: white;
+}
+.active-title {
+    color:#313c52;
+}
+.page-header {
+    padding-bottom: 10px;
+    border-bottom: 4px solid #313c52;
+}
+.page-title {
+    font-size: 1.8em!important;
+}
+.page-wrapper {
+    padding-left: 20px;
+}
+.card-title {
+    font-size: 1.5em!important;
+}
+.trainerbutton {
+    margin-right:20px;
+}
+.card-header {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-bottom: 0px;
+}
+.Architecture {
+    padding: 20px;
+}
+.information {
+    font-family: 'Courier New', Courier, monospace;
+    padding:20px;
+}
+.subheader {
+    font-size: 1.5em!important;
+    padding-right: 10px;
+}
+.modal-title {
+    font-size: 2em!important;
+}
